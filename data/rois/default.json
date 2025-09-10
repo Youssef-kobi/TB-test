@@ -1,0 +1,7 @@
+{
+  "sender": { "x": 420, "y": 240, "width": 300, "height": 40 },
+  "type":   { "x": 800, "y": 240, "width": 260, "height": 40 },
+  "level":  { "x": 1080, "y": 240, "width": 100, "height": 40 },
+  "expires":{ "x": 1200, "y": 240, "width": 160, "height": 40 },
+  "row":    { "height": 90, "count": 8, "startY": 240, "gap": 10 }
+}
